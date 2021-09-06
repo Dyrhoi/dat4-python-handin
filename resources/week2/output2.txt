@@ -1,0 +1,9 @@
+resources\week2\a_simple_md.md
+resources\week2\copy_of_file.csv
+resources\week2\countries.txt
+resources\week2\dogs.csv
+resources\week2\emails.txt
+resources\week2\emails_2.txt
+resources\week2\output.txt
+resources\week2\output2.txt
+resources\week2\output3.txt
